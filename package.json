@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "jasmine-core": "2.99.1",
     "@types/jasmine": "2.8.6",
-    "immer": "2.1.4"
+    "immer": "^2.1.4",
+    "jasmine-core": "2.99.1"
   },
   "scripts": {
     "ng": "ng",
